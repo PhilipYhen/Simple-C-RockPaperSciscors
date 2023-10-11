@@ -1,1 +1,1 @@
-# Simple-C-RockPaperSciscors
+# Simple C# RockPaperSciscors
