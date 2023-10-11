@@ -1,0 +1,14 @@
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\bin\Debug\net7.0\Simple C# RockPaperSciscors.exe
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\bin\Debug\net7.0\Simple C# RockPaperSciscors.deps.json
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\bin\Debug\net7.0\Simple C# RockPaperSciscors.runtimeconfig.json
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\bin\Debug\net7.0\Simple C# RockPaperSciscors.dll
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\bin\Debug\net7.0\Simple C# RockPaperSciscors.pdb
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\obj\Debug\net7.0\Simple C# RockPaperSciscors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\obj\Debug\net7.0\Simple C# RockPaperSciscors.AssemblyInfoInputs.cache
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\obj\Debug\net7.0\Simple C# RockPaperSciscors.AssemblyInfo.cs
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\obj\Debug\net7.0\Simple C# RockPaperSciscors.csproj.CoreCompileInputs.cache
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\obj\Debug\net7.0\Simple C# RockPaperSciscors.dll
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\obj\Debug\net7.0\refint\Simple C# RockPaperSciscors.dll
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\obj\Debug\net7.0\Simple C# RockPaperSciscors.pdb
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\obj\Debug\net7.0\Simple C# RockPaperSciscors.genruntimeconfig.cache
+C:\Users\Antonieta Arandia\Desktop\Simple C# RockPaperSciscors\obj\Debug\net7.0\ref\Simple C# RockPaperSciscors.dll
